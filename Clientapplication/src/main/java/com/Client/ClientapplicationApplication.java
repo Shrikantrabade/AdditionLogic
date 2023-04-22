@@ -16,5 +16,13 @@ public class ClientapplicationApplication {
 		System.out.println("This is result from client addition: "+sum2);
 		
 	}
+	
+	
+	public String getfirstmsg() 
+	{
+	
+		return "welcome to company";
+		
+	}
   
 }
